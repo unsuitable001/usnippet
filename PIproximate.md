@@ -6,6 +6,11 @@ Wanna know more? You came to the wrong place. GO SEARCH GOOGLE!
 
 [Get the source code](PIproximate.c)
 
+[Get already counted results tn txt format](https://drive.google.com/file/d/1CMAlqPPKX-2Zo2ty3R7cWwt_kn0Pde8n/view?usp=sharing)
+ | Size : 13MB | Time taken to calculate : 5mins on Core 2 Duo E7500
+ 
+ This is not a complete result. I terminated it forcefully. But, It's HUGEEEE!
+
 # DISCLAIMER
 
 The content below this maybe NOT SO GOOD in everyone's eyes.
