@@ -21,7 +21,6 @@ int main()
         r = div / 99532;
         rem = div % 99532;
         fprintf(out,"%d",r);
-        flag++;
     }
     fclose(out);
     return 0;
