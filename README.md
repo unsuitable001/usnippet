@@ -14,6 +14,8 @@ Do PR to add your snippet here. :)
 
 [randgen](randgen.py) - A fancy integer & string generator. It's a bit more than you think :wink:
 
+[copyman](copyman.sh) - A simple utility to copy files faster. And, Oh! It can also resume failed/terminated copies.
+
 
 #### some scripts are useful. some are just silly and just for fun. I'll update it whenver I can.
 
