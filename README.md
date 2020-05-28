@@ -16,6 +16,7 @@ Do PR to add your snippet here. :)
 
 [copyman](copyman.sh) - A simple utility to copy files faster. And, Oh! It can also resume failed/terminated copies.
 
+[upsft](upsft.sh) - A simple utility to fix apt sources list for outdated ubuntu based distros.
 
 #### some scripts are useful. some are just silly and just for fun. I'll update it whenver I can.
 
