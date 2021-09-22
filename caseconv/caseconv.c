@@ -7,7 +7,7 @@ void toUpperCase(char *string)
     int i;
     for (i = 0; i < strlen(string); i++)
     {
-        if (string[i] > 'Z')
+        if (string[i] > 'Z' && string[i] <= 'z')
         {
             string[i] = string[i] - 32;
         }
